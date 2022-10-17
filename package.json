@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DamianReeves/write-file-action.git"
+      "url": "git+https://github.com/BoundfoxStudios/action-write-file.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Manuel Rauber <info@boundfoxstudios.com>",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/DamianReeves/write-file-action/issues"
+      "url": "https://github.com/BoundfoxStudios/action-write-file/issues"
   },
-  "homepage": "https://github.com/DamianReeves/write-file-action#readme",
+    "homepage": "https://github.com/BoundfoxStudios/action-write-file#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/io": "^1.0.2"
